@@ -11,6 +11,6 @@
 - fg
 
 ## My Project
-- [Project 1: Weather App](./ST445_TheTeam(1).html/index.html)
+- [Project 1: ST445](./ST445_TheTeam (1).html)
 - kj
 - ty
