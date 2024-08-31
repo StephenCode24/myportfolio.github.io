@@ -11,6 +11,6 @@
 - fg
 
 ## My Project
-- [Project1: Click here](./ST445_TheTeam%20(1).html)
-- [Project2: Click here](./ST443.html)
+- [Project1](./ST445_TheTeam%20(1).html)
+- [Project2](./ST443.html)
 - ty
