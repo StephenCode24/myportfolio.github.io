@@ -11,6 +11,6 @@
 - fg
 
 ## My Project
-- gh
+- [Project 1: Weather App](./ST445_TheTeam/index.html)
 - kj
 - ty
