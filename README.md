@@ -1,5 +1,5 @@
 # Data Scientist
-![Profile Photo](MyPhoto.jpg)
+![Profile Photo](./MyPhoto.jpg)
 
 ## My Education
 - sd
