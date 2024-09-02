@@ -2,7 +2,7 @@
   Technical skills: Python, R, C++, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Excel
 
 ## Education
-- MSc, Data Science	| The London School of Economics and Political Science (_September 2024_)	 			        		
+- MSc, Data Science	      | The London School of Economics and Political Science (_September 2024_)	 			        		
 - BSc(Hons.), Mathematics | St. Stephen's College, University of Delhi (_June 2023_)
 
 ## Professional Experience
