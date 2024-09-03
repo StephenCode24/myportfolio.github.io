@@ -1,11 +1,11 @@
 # Data Scientist
-  Technical skills: Python, R, C++, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Excel
+Welcome!
+I'm Ayush, a recent graduate in Data Science from the London School of Economics (LSE). This space highlights my journey through data science, showcasing key projects where I've applied my passion for turning complex data into actionable insights. Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating or learning more!
+Technical skills: Python, R, C++, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Excel
 
 ## My Education
 - MSc, Data Science | The London School of Economics and Political Science (_September 2023 - September 2024_)
 - BSc(Hons.), Mathematics | St. Stephen's College, University of Delhi (_November 2020 - June 2023_)
-- Indian School Certificate Examination | St. Xavier's School, Doranda, Ranchi (_March 2020_)
-
 
 ## Related Experiences
 #### Graduate Student Researcher @ Westminster City Council (_November 2023- July 2024_)
