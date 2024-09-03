@@ -11,7 +11,7 @@ Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Ex
 
 ## My Education
 
-- MSc, Data Science | The London School of Economics and Political Science (_September 2023 - September 2024_)
+- MSc, Data Science   | The London School of Economics and Political Science (_September 2023 - September 2024_)
 - BSc(Hons.), Mathematics | St. Stephen's College, University of Delhi (_November 2020 - June 2023_)
 
 ## Related Experiences
