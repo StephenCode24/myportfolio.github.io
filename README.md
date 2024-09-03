@@ -20,9 +20,12 @@
 ## My Project
 ### Project1: An Analysis of Airbnb Prices in New York City:                                                                                                                                 October- November 2023
 This project analysed factors influencing Airbnb prices in New York City using statistical analysis methods and data visualization. It included property segmentation based on characteristics like location and amenities, and audience analysis to assess market demand and pricing trends across neighbourhoods. The insights aid stakeholders develop data-driven pricing strategies for selecting best places. 
-[Link to Project1](Project2/Airbnb.html)
+[Project1](Project2/Airbnb.html)
 
-### Comparing Machine Learning Methods for predicting income increase:                                                                                                                    November- December 2023    
+### Project2: Comparing Machine Learning Methods for predicting income increase:                                                                                                            November- December 2023    
 This project investigated median income increases across New York counties over time, utilizing Machine Learning models, from linear regression to Neural Networks. The project pinpointed key indicators influencing income fluctuations across counties and provided strategic insights for enhancing urban economic policies.
-[Link to Project2](./ST443.html)
-- [Project3]
+[Project2](./ST443.html)
+
+### Project3: Predicting Yelp Review Popularity:                                                                                                                                                  March- April 2024
+The insights generated from this project were tailored to enhance Yelp’s review management system to support a more engaging customer experience. The project sought to do this by predicting which reviews are most likely to be useful and popular. Leveraging Big Data frameworks and natural language processing techniques, it analysed key factors influencing review utility, enabling the development of machine learning models that accurately forecast review popularity.
+[Project3](./Group10_Code_ST446.ipynb)
