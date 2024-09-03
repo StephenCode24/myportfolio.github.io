@@ -38,5 +38,5 @@ This project investigated median income increases across New York counties over 
 ### Predicting Yelp Review Popularity (_March - April 2024_)
 
 The insights generated from this project were tailored to enhance Yelp’s review management system to support a more engaging customer experience. The project aimed to predict which reviews are most likely to be useful and popular. Leveraging Big Data frameworks and natural language processing techniques, it analyzed key factors influencing review utility, enabling the development of machine learning models that accurately forecast review popularity.  
-[Project3](Project3/Group10_Code_ST446.ipynb)
+[Project3](Project3)
 
