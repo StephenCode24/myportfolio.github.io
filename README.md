@@ -4,7 +4,7 @@
 I'm Ayush, a recent graduate in Data Science from the London School of Economics (LSE). This space highlights my journey through data science, showcasing key projects where I've applied my passion for turning complex data into actionable insights. Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating or learning more!
 
 **Contact Me:**  
-You can email me at [ayushstephen2002@gmail.com](mailto:ayushstephen2002@gmail.com)
+My email: [ayushstephen2002@gmail.com](mailto:ayushstephen2002@gmail.com)
 
 **Technical Skills:**  
 Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Excel
