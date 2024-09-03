@@ -17,6 +17,6 @@
 - fg
 
 ## My Project
-- [Project1](./ST445_TheTeam%20(1).html)
+- [Project1](.Project2/Airbnb%20Project.htm)
 - [Project2](./ST443.html)
 - ty
