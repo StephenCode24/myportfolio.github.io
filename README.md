@@ -32,7 +32,7 @@ This project analyzed factors influencing Airbnb prices in New York City using s
 
 ### Comparing Machine Learning Methods for Predicting Income Increase (_November - December 2023_)
 
-This project investigated median income increases across New York counties over time, utilizing Machine Learning models from linear regression to Neural Networks. The project pinpointed key indicators influencing income fluctuations across counties and provided strategic insights for enhancing urban economic policies.  
+This project investigated median income increases across New York counties from 2014 to 2019. We used socio-demographic data on the US census tract level to predict whether a given census tract experienced positive economic growth, measured by the median income. We collected data from the US Census Bureau for the economic and social indicators on the Census Tract Level made available from the American Community Survey 5-Year Data (ACS5). To measure the economic change, we retrieved the median income for both 2014 and 2019 and computed the percentage change over the time period. In addition, we created a new variable to classify a census tract based on the direction of change in median income. Using socio-economic factors like education and unemployment rate, among many others, as predictors, we utilized Machine Learning models from linear regression to Neural Networks to identify significant predictors of income growth and to provide insights into factors driving economic development in different regions.
 [Project2](Project2/ST443.html)
 
 ### Predicting Yelp Review Popularity (_March - April 2024_)
