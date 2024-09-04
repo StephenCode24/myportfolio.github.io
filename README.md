@@ -41,7 +41,7 @@ This project investigated median income increases across New York counties from 
 
 The insights generated from this project were tailored to enhance Yelp’s review management system to support a more engaging customer experience. The project aimed to predict which reviews are most likely to be useful and popular. Leveraging Big Data frameworks and natural language processing techniques, it analyzed key factors influencing review utility, enabling the development of machine learning models that accurately forecast review popularity.  
 
-### Developing Methods for the coordinate descent algorithm
+### Developing Methods for the Coordinate Descent Algorithm
 
 [Project4](https://github.com/StephenCode24/myportfolio.github.io/tree/main/Project4)
 
