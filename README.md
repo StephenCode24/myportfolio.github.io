@@ -1,4 +1,4 @@
-**Welcome!**  
+## Welcome! 
 I'm Ayush, a recent graduate in Data Science from the London School of Economics (LSE). This space highlights my journey through data science, showcasing key projects where I've applied my passion for turning complex data into actionable insights. Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating or learning more!
 
 **Contact Me:**  
