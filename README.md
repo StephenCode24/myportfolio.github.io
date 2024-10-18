@@ -33,7 +33,7 @@ This project analyzed factors influencing Airbnb prices in New York City using s
 
 [Project2](Project2/ST443.html)
 
-[Project Report PDF](Project2/ML%20Report.pdf)
+[Project Report](Project2/ML%20Report.pdf)
 
 This project investigated median income increases across New York counties from 2014 to 2019. We used socio-demographic data on the US census tract level to predict whether a given census tract experienced positive economic growth, measured by the median income. We collected data from the US Census Bureau for the economic and social indicators on the Census Tract Level made available from the American Community Survey 5-Year Data (ACS5). To measure the economic change, we retrieved the median income for both 2014 and 2019 and computed the percentage change over the time period. In addition, we created a new variable to classify a census tract based on the direction of change in median income. Using socio-economic factors like education and unemployment rate, among many others, as predictors, we utilized Machine Learning models from linear regression to Neural Networks to identify significant predictors of income growth and to provide insights into factors driving economic development in different regions.
 
@@ -45,7 +45,9 @@ The insights generated from this project were tailored to enhance Yelp’s revie
 
 ### Developing Methods for the Coordinate Descent Algorithm
 
-[Project4](https://github.com/StephenCode24/myportfolio.github.io/tree/main/Project4)
+[Project 4](Project4/Coordinate%20Descent%20Algorithm.R)
+
+[Project Report](Project4/Coordinate%20Descent%20Algorithm.pdf)
 
 This project involved developing coordinate descent algorithms to solve lasso and elastic net regression problems, with a focus on optimizing predictive accuracy and variable selection. K-fold cross-validation was applied to fine-tune models using mean-squared error (MSE) values for optimization. Performance was analyzed across scenarios where the number of data points (n) exceeds the number of variables (p), and where variables (p) exceed data points (n). The results demonstrated that elastic net outperforms lasso, particularly in complex scenarios with highly correlated variables and limited data availability.
 
