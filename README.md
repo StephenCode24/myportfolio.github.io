@@ -12,15 +12,6 @@ Python, R, C++, Java, SQL, PowerBI, Tableau, Google Cloud Computing, Advanced Ex
 - MSc, Data Science       | The London School of Economics and Political Science (_September 2023 - September 2024_)
 - BSc(Hons.), Mathematics | St. Stephen's College, University of Delhi (_November 2020 - June 2023_)
 
-## Related Experiences
-
-### Graduate Student Researcher @ Westminster City Council (_November 2023 - July 2024_)
-
-- Enabled targeted air quality interventions by identifying critical hotspots and temporal fluctuations around 96 schools and analyzing emissions from 116 commercial kitchens in Soho, using advanced statistical methods and GIS.
-- Supported decision-makers with actionable insights through a Power BI dashboard that tracked key KPIs, including pollutant levels, spatiotemporal trends, and WHO AQG compliance around key areas.
-- Advanced pollution trend analysis by developing three spatial-econometric models, revealing the significant influence of three key geographic factors on pollution levels, which contributed to more effective policy intervention by the council.
-- Developed and deployed advanced time series models like ARIMAX and deep learning models (LSTM, GRU-ODE, GRU-Bayes) to accurately predict pollution levels for six key pollutants in Westminster, achieving a 20% improvement in prediction accuracy.
-
 ## My Projects
 
 ### An Analysis of Airbnb Prices in New York City
